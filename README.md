@@ -1,5 +1,6 @@
-# DDOS TOOL BY HYDRAX/VNXYZQ (Please use at your own risk!)
+# DDOS TOOL BY HYDRAX/VNXYZQ
 This tool allowing flooding server of an Business, Gamers even Service Provider.
+- Please use at your own risk!
 
 Please use it wisely this Script Created 2023 so it's outdated. or maybe weaker than before.
 
