@@ -1,4 +1,4 @@
-#MADE BY VENTHINGS
+#MADE BY VENTHINGS/VNXYZQ
 #RAM DESTROYER
 #VERSION 3.5
 import random
@@ -23,7 +23,7 @@ print("""
                         
                Version 3.5 (Beta)
     Notice: Not all server can down on this
-        (Ram Destroy) - (By VenThings)
+        (Ram Destroy) - (By vnxyzq)
           Last Update: August 6 2023
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰                                                                                                                                         
 """)
