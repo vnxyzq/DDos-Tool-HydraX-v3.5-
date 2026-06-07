@@ -23,7 +23,7 @@ print("""
                         
                Version 3.5 (Beta)
     Notice: Not all server can down on this
-        (Ram Destroy) - (By vnxyzq)
+        (Flooder L4) - (By vnxyzq)
           Last Update: August 6 2023
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰                                                                                                                                         
 """)
